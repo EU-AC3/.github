@@ -81,8 +81,6 @@ AC3 addresses the growing demands of modern applications by:
 
 AC3 brings together leading research institutions, technology companies, and industry experts across Europe to deliver cutting-edge cloud-edge continuum solutions.
 
-**Coordinator:** WINGS ICT Solutions (Greece)
-
 For the complete consortium list, visit our [website](https://ac3-project.eu/).
 
 ---
