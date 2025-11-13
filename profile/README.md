@@ -29,7 +29,6 @@ AC3 creates a unified platform that spans from core cloud infrastructure to edge
 **Programme:** Horizon Europe - Digital, Industry and Space  
 **Topic:** HORIZON-CL4-2022-DATA-01  
 **Funding Scheme:** HORIZON-RIA (Research and Innovation Actions)  
-**Coordinator:** WINGS ICT SOLUTIONS INFORMATION & COMMUNICATION TECHNOLOGIES IKE (Greece)
 
 Edge computing represents a paradigm shift from traditional centralized data centers, bringing computation and data storage closer to the source. AC3 takes this concept further by creating an **agile framework** that manages the entire cloud-edge computing continuum as a unified, federated platform.
 
